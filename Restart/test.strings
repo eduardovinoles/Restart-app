@@ -1,0 +1,31 @@
+/*
+  Localizable_Sp.strings
+  Taboo-Questions
+
+  Created by eduardo vinoles on 28/8/23.
+  
+*/
+//MARK: - App
+"app_name" = "Taboo Questions";
+
+//MARK: - Tabbar
+"home_tabbar_item_title" = "Inicio";
+"Notifications_tabbar_item_title" = "Notificaciones";
+"profile_tabbar_item_title" = "Perfil";
+
+// MARK: - Dialogs
+"success_alert_title" = "Grandioso!";
+"default_error_title" = "Ooops!";
+"default_error_message" = "Algo ha salido mal";
+"error_ok_button" = "Ok";
+"default_loading" = "cargando...";
+"alert_settings" = "Configuraciones";
+"alert_cancel" = "Cancelar";
+"unauthorized_error" = "email o contraseña incorrecta";
+"sign_in_not_found_error" = "Ha ingresado un usario o contraseña incorrecto";
+"not_found_error" = "No se encontro.";
+"bad_request_error" = "Solicitud incorrecta";
+"forbidden_error" = "Prohibido";
+"parsing_error" = "Error de sintaxis";
+"internal_server_error" = "Error interno";
+"unknown_error" = "Error desconocido";
